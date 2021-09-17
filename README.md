@@ -17,13 +17,14 @@ The predictions are made by using the trends of prices of cryptocurrencies and c
 * Percentage change in predicted price by sentiment is indicated by a speedometer below the graph.
 
 <br>
-<br>
 
-* For more details and documentation, head to [learning](https://github.com/CryptoFutureX/learning)
+> **Our repositories** <br>
 
-* For the codebase of the Django backend and more on the machine learning models, head to [backend](https://github.com/CryptoFutureX/backend)
+- For more details and documentation, head to [learning](https://github.com/CryptoFutureX/learning)
 
-* For the codebase of the ReactJS frontend, head to [frontend](https://github.com/CryptoFutureX/frontend)
+- For the codebase of the Django backend and more on the machine learning models, head to [backend](https://github.com/CryptoFutureX/backend)
+
+- For the codebase of the ReactJS frontend, head to [frontend](https://github.com/CryptoFutureX/frontend)
 
 ## Screenshots
 
